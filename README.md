@@ -122,7 +122,9 @@ data-analytics-project/
 │
 ├── data/
 
-│   └── raw_dataset.csv              # Original dataset
+│   └── raw_dataset.csv   
+
+# Original dataset
 │
 ├── notebooks/
 
