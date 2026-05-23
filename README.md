@@ -115,40 +115,6 @@ Promote top-rated products in marketing campaigns
 Use age and shipping preference data for targeted advertising
 
 
-📁 Repository Structure
-
-data-analytics-project/
-
-│
-├── data/
-
-│   └── raw_dataset.csv   
-
-# Original dataset
-│
-├── notebooks/
-
-│   └── eda_and_cleaning.ipynb       # Python EDA and cleaning notebook
-│
-├── sql/
-
-│   └── queries.sql                  # All PostgreSQL queries
-│
-├── dashboard/
-
-│   └── dashboard.pbix               # Power BI file
-│
-├── report/
-
-│   └── project_report.pdf           # Full written report
-│   └── presentation.pptx            # Stakeholder PowerPoint
-│
-
-└── README.md
-
-
-
-
 📬 Contact
 
 Name: - Priyanshi
