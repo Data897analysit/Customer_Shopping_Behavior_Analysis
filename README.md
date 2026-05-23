@@ -143,11 +143,7 @@ data-analytics-project/
 
 📧 priyanshirajput1652001@gmail.com
 
-Linkedin Profile: - https://www.linkedin.com/in/priyanshi-rajput
+🔗Linkedin Profile: - https://www.linkedin.com/in/priyanshi-rajput
 
-Github Profile: - https://github.com/Data897analysit
+💻Github Profile: - https://github.com/Data897analysit
 
-
-
-🔗 LinkedIn Profile
-💻 GitHub Profile
