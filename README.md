@@ -119,7 +119,7 @@ Use age and shipping preference data for targeted advertising
 
 Name: - Priyanshi
 
-📧 priyanshirajput1652001@gmail.com
+📧 priyanshi1652001@gmail.com
 
 🔗Linkedin Profile: - https://www.linkedin.com/in/priyanshi-rajput
 
