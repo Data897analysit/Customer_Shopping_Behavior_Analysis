@@ -11,8 +11,7 @@
 
 **Full data analytics pipeline on 3,900 customer records — from raw data to Power BI dashboard — uncovering revenue patterns, customer segments & actionable business insights.**
 
-[💼 LinkedIn](https://www.linkedin.com/in/priyanshi-rajput) · [🐙 GitHub](https://github.com/Data897analysit) · [📧 Email](mailto:priyanshi1652001@gmail.com) · [🌐 Peerlist](https://peerlist.io/priyanshirajput)
-
+[💼 LinkedIn](https://www.linkedin.com/in/priyanshi-rajput) · [🐙 GitHub](https://github.com/Data897analysit) · [📧 Email](mailto:priyanshi1652001@gmail.com) 
 </div>
 
 ---
@@ -191,8 +190,7 @@ The Power BI dashboard includes:
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Priyanshi Rajput](https://www.linkedin.com/in/priyanshi-rajput) |
-| 🌐 Peerlist | [priyanshirajput](https://peerlist.io/priyanshirajput) |
+| 💼 LinkedIn | [Priyanshi Rajput](https://www.linkedin.com/in/priyanshi-rajput) 
 | 📧 Email | priyanshi1652001@gmail.com |
 | 🐙 GitHub | [Data897analysit](https://github.com/Data897analysit) |
 
